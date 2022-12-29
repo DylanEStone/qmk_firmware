@@ -1,0 +1,4 @@
+thier       -> their
+fo          -> of
+teh         -> the
+widht       -> width

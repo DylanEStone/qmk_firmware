@@ -1,0 +1,7 @@
+:thier     -> their
+filter    -> filter
+fo        -> of
+teh       -> the
+netwrok   -> network
+netowrk   -> network
+witdh     -> width
