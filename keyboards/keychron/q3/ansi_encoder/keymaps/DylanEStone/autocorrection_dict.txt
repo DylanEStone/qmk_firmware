@@ -57,6 +57,7 @@ looup         -> lookup
 manefist      -> manifest
 namesapce     -> namespace
 namespcae     -> namespace
+netowrk       -> network
 occassion     -> occasion
 occured       -> occurred
 ouptut        -> output

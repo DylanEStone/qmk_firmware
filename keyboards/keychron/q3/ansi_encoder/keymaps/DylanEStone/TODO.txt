@@ -1,0 +1,1 @@
+Fix F2 and F3 functionality for OSX.
